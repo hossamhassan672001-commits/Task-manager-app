@@ -66,12 +66,7 @@ Update `frontend/.env` if your API URL changes:
 VITE_API_BASE=http://localhost:4000/api
 ```
 
-## Git setup (local only)
-```bash
-git init
-git add .
-git commit -m "Task manager app"
-```
+
 
 ## API
 - `POST /api/auth/register`
