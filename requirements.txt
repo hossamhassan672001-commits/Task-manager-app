@@ -1,0 +1,3 @@
+Node.js >= 18.0
+npm >= 9.0
+MySQL or MariaDB >= 10.4
